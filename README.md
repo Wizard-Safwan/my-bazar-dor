@@ -133,7 +133,7 @@ git clone https://github.com/Wizard-Safwan/bazar-dor.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd bazar-dor
+cd my-bazar-dor
 ```
 
 ### 3. Install Dependencies
