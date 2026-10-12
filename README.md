@@ -173,7 +173,7 @@ npm run start
 BazarDor is deployed on Vercel.
 
 - **Live Website:** https://my-bazar-dor.vercel.app/
-- **Source Code:** https://github.com/Wizard-Safwan/bazar-dor
+- **Source Code:** https://github.com/Wizard-Safwan/my-bazar-dor
 
 For production authentication, configure the correct production domain and callback/redirect URLs for Better Auth and the Google/GitHub providers.
 
