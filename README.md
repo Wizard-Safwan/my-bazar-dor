@@ -4,7 +4,7 @@
 
 [![Live Website](https://img.shields.io/badge/Live-Visit%20Website-16a34a?style=for-the-badge)](https://my-bazar-dor.vercel.app/)
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Wizard-Safwan/bazar-dor)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Wizard-Safwan/my-bazar-dor)
 
 **BazarDor (বাজার দর)** is a responsive market price web application that helps users explore the latest prices of everyday essentials in Bangladesh. Users can browse products by category, compare market prices, track price changes, sort products by price, and view detailed pricing information through a clean and user-friendly interface.
 
