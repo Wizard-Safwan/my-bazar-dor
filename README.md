@@ -187,7 +187,7 @@ For production authentication, configure the correct production domain and callb
 
 ## 👨‍💻 Author
 
-**Mohammed Safwan Jami Chowdhury**
+**Mohammed Safwan Chowdhury**
 
 - GitHub: [@Wizard-Safwan](https://github.com/Wizard-Safwan)
 - LinkedIn: [Safwan Chowdhury](https://www.linkedin.com/in/safwan-chowdhury07)
